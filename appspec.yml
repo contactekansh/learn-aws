@@ -1,3 +1,5 @@
+version: 0.0
+os: linux
 files:
   - source: s3://k8s-learn/learn-app/target/messageUtil-1.0.jar
     destination: /opt
